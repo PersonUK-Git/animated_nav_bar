@@ -11,7 +11,7 @@ A highly customizable, animated bottom navigation bar for Flutter. It features a
 
 ## Demo
 
-![Demo Animation](https://github.com/PersonUK-Git/animated_nav_bar/raw/main/demo.gif)
+<img src="https://github.com/PersonUK-Git/animated_nav_bar/raw/main/demo.gif" height="500" alt="Demo Animation" />
 
 
 
