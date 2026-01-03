@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:animated_nav_bar/animated_nav_bar.dart';
+import 'package:animated_scale_nav_bar/animated_scale_nav_bar.dart';
 
 void main() {
   test('adds one to input values', () {

@@ -1,4 +1,4 @@
-name: animated_nav_bar
+name: animated_scale_nav_bar
 description: "A highly customizable animated bottom navigation bar for Flutter with smooth scale effects and PageController sync."
 version: 1.0.0
 repository: https://github.com/PersonUK-Git/animated_nav_bar

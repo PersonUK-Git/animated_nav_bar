@@ -1,4 +1,4 @@
-import 'package:animated_nav_bar/animated_nav_bar.dart';
+import 'package:animated_scale_nav_bar/animated_scale_nav_bar.dart';
 import 'package:flutter/material.dart';
 
 void main() {

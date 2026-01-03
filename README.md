@@ -17,11 +17,11 @@ A highly customizable, animated bottom navigation bar for Flutter. It features a
 
 ## Usage
 
-1.  Add `animated_nav_bar` to your `pubspec.yaml` (once published).
+1.  Add `animated_scale_nav_bar` to your `pubspec.yaml` (once published).
 2.  Import the package:
 
 ```dart
-import 'package:animated_nav_bar/animated_nav_bar.dart';
+import 'package:animated_scale_nav_bar/animated_scale_nav_bar.dart';
 ```
 
 3.  Use it in your `Scaffold`:
