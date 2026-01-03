@@ -1,4 +1,4 @@
-## 0.0.1
+## 1.0.0
 
 * Initial release.
 * Animated bottom navigation bar with scale effects and page controller sync.
